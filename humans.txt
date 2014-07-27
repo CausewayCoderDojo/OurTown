@@ -1,0 +1,42 @@
+/* humanstxt.org */     
+
+/* TEAM */
+Mentor: Jordan Colgan
+Mentor: Richard Taylor
+
+Front-end/Design: Chloe Woods
+Front-end/Design: Liam Fletcher
+
+Research/Content: Mark Gardiner
+Research/Content: Dean Stewart
+
+Site: http://causewaycoderdojo.com/
+Facebook: CausewayCoderDojo
+Twitter: @CausewayDojo
+Location: Ballycastle, Northern Ireland
+
+/* THANKS */
+CoderDojo: http://coderdojo.com/
+
+Causeway CoderDojo: http://team.causewaycoderdojo.com/
+
+Causeway Enterprise Agency: http://www.causeway-enterprise.co.uk/
+
+Twitter Bootstrap: http://getbootstrap.com/
+
+Start Bootstrap: http://startbootstrap.com/
+
+Ramona Curry Photography: http://www.facebook.com/RamonaCurryPhotography
+
+Hannah Pulman Photography: http://www.facebook.com/hannahpulmanphotography13
+
+Karenann's Photography Ballycastle: https://www.facebook.com/KarenannsPhotography
+
+/* SITE */
+Last update: 27/07/2014
+Standards: HTML5, CSS3, JavaScript
+Components: jQuery
+Software: Sublime text 2/3, Filezilla, GIMP
+
+
+                    

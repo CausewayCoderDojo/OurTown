@@ -1,0 +1,59 @@
+.header {
+	height: 250px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.intro h1 {
+	font-size: 2em;
+}
+
+.intro p {
+	font-size: 1em;
+}
+
+.intro,
+.row {
+	margin-bottom: 15px
+}
+
+.col-md-4 {
+	padding-top: 30px;
+}
+
+#map {
+	height: 300px;
+	width: 100%;
+}
+
+@media(min-width: 768px) {
+    .header {
+		height: 500px;
+	}
+
+	.intro,
+	.row {
+		margin-bottom: 30px
+	}
+
+	.col-md-4 {
+		padding-bottom: 15px;
+	}
+
+	#map {
+		height: 400px;
+		width: 100%;
+	}
+
+	.intro h1 {
+		font-size: 3em;
+	}
+
+	.intro p {
+		font-size: 1.5em;
+	}
+}
+
+
+
